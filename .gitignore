@@ -1,0 +1,19 @@
+# Environment variables
+.env
+.env.*
+
+# Server (Node.js)
+server/node_modules/
+server/npm-debug.log*
+server/yarn-debug.log*
+server/pnpm-debug.log*
+
+# Client (React)
+client/node_modules/
+client/dist/
+client/build/
+
+# Editor / OS files
+.DS_Store
+.vscode/
+.idea/
